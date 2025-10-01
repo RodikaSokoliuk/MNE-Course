@@ -24,21 +24,22 @@ Enjoy - and let us know if you need any further explanation.
 
 ## Setup & Code
 
-1. [InstallationGuide][installation_guide.pdf](https://github.com/user-attachments/files/22641683/installation_guide.pdf)
+1. [InstallationGuide](https://github.com/user-attachments/files/22641683/installation_guide.pdf)
 
 The Jupyter Notebook available in the files contains all the code used during the workshop and is divided into the sections below. 
 
-2. [Introduction and Basics about Python]
-3. [Loading data & Visual Inspection]
-4. [Preprocessing 1]
-5. [Preprocessing 2 & ERP Analyses]
-6. [Time Frequency Analyses]
+2. Introduction and Basics about Python
+3. Loading data & Visual Inspection
+4. Preprocessing 1
+5. Preprocessing 2 & ERP Analyses
+6. Time Frequency Analyses
 
 
 ## Extras
 
 1. Useful Links
-Here is a list of links to content learners might find useful, including instructions about accessing Git's Copilot. [Useful Links.pdf](https://github.com/user-attachments/files/22641778/Useful.Links.pdf)
+
+[Here is a list of links to content learners might find useful, including instructions about accessing Git's Copilot.](https://github.com/user-attachments/files/22641778/Useful.Links.pdf)
 
 
 3. How to use Git
