@@ -11,7 +11,7 @@ Welcome to the **Book: SEPNECA MNE-Python workshop** repository! This repository
 
 ## Introduction
 
-This book is part of a teaching activity aimed at providing structured learning materials. In specific, this book provides introductory content into [MNE-Python](https://mne.tools/stable/index.html), an interactive Python-based toolbox to analyse electrophysiological data, like EEG, MEG and intracranial EEG data. 
+This book is part of a teaching activity aimed at providing structured learning materials. Specifically, this book provides introductory content into [MNE-Python](https://mne.tools/stable/index.html), an interactive Python-based toolbox to analyse electrophysiological data, like EEG, MEG and intracranial EEG data. 
 The book is divided in 3 parts: (i) [Slides](#slides), which guide through the material of the workshop, from very basic information about Python to theoretical content about the use of EEG up to preprocessing of EEG data and specific analysis approaches using MNE-Python. (ii) [Setup&Code](#setup&code) provides the code that was used in the workshop and is referred to in the slides. It goes from basic examples and little exercises to specific commands used in MNE-Python. (iii) [Extras](#extras) includes useful links and information about Python, MNE-Python in specific, use of github, etc.
 Enjoy - and let us know if you need any further explanation.  
 
@@ -24,23 +24,24 @@ Enjoy - and let us know if you need any further explanation.
 
 ## Setup & Code
 
-1. [InstallationGuide](installation_guide.pdf)
-2. [Introduction and Basics about Python](IntroPython.py)
-3. [Loading data & Visual Inspection](VisualInspection.py)
-4. [Preprocessing 1](Preprocessing1.py)
-5. [Preprocessing 2 & ERP Analyses](Preprocessing2_ERP.py)
-6. [Time Frequency Analyses](TimeFrequencyAnalyses.py)
+1. [InstallationGuide][installation_guide.pdf](https://github.com/user-attachments/files/22641683/installation_guide.pdf)
+
+The Jupyter Notebook available in the files contains all the code used during the workshop and is divided into the sections below. 
+
+2. [Introduction and Basics about Python]
+3. [Loading data & Visual Inspection]
+4. [Preprocessing 1]
+5. [Preprocessing 2 & ERP Analyses]
+6. [Time Frequency Analyses]
 
 
 ## Extras
 
 1. Useful Links
-- [Link1]()
-- [Link2]()
-- [Link3]()
-- [Link4]()
+Here is a list of links to content learners might find useful, including instructions about accessing Git's Copilot. [Useful Links.pdf](https://github.com/user-attachments/files/22641778/Useful.Links.pdf)
 
-2. How to use Git
+
+3. How to use Git
 - Basics
 - How to get a free version of copilot using your university account
 
