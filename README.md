@@ -25,7 +25,7 @@ Enjoy - and let us know if you need any further explanation.
 
 1. [Installation Guide](https://drive.google.com/file/d/1PhGYbnWNV2IMcPu1r9sq7Ak661PZf7QF/view?usp=sharing)
 
-The Jupyter Notebook available in the files contains all the code used during the workshop and is divided into the sections below. 
+The [Jupyter Notebook](https://drive.google.com/file/d/19yHzKWzfZiJfpGKthjBN0L5r0xv57uuM/view?usp=sharing) available in the files contains all the code used during the workshop and is divided into the sections below. 
 
 2. Introduction and Basics about Python
 3. Loading data & Visual Inspection
