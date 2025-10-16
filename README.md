@@ -20,7 +20,7 @@ Enjoy - and let us know if you need any further explanation.
 - [Good EEG Practice &_Visual Inspection of EEG Data](https://github.com/user-attachments/files/22945552/GoodEEGPractice_VisualInspection.pptx.pdf)
 - [Preprocessing 1](https://github.com/user-attachments/files/22945561/Preprocessing1.pptx.pdf)
 - [Preprocessing 2_& ERP Analyses](https://github.com/user-attachments/files/22945565/Preprocessing2_ERP.pptx.pdf)
-- [Time Frequency Analyses](https://github.com/user-attachments/files/22945574/TimeFrequencyAnalyses.pptx.pdf)
+- [Time Frequency Analyses](https://docs.google.com/presentation/d/11xcIDD9FexV-EVR808SP_hzT_fEnswoO/edit?usp=sharing&ouid=100980314485590754632&rtpof=true&sd=true)
 
 ## Setup & Code
 
