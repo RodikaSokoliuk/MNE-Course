@@ -16,11 +16,11 @@ The book is divided in 3 parts: (i) [Slides](#slides), which guide through the m
 Enjoy - and let us know if you need any further explanation.  
 
 ## Slides
-- [Introduction and Basics about Python](IntroPython.pdf)
-- [Good EEG Practice & Visual Inspection of EEG data](GoodEEGPractice_VisualInspection.pdf)
-- [Preprocessing 1](Preprocessing1.pdf)
-- [Preprocessing 2 & ERP Analyses](Preprocessing2_ERP.pdf)
-- [Time Frequency Analyses](TimeFrequencyAnalyses)
+- [Introduction and Basics in Python](https://github.com/user-attachments/files/22945543/IntroPython.pptx.pdf)
+- [Good EEG Practice &_Visual Inspection of EEG Data](https://github.com/user-attachments/files/22945552/GoodEEGPractice_VisualInspection.pptx.pdf)
+- [Preprocessing 1](https://github.com/user-attachments/files/22945561/Preprocessing1.pptx.pdf)
+- [Preprocessing 2_& ERP Analyses](https://github.com/user-attachments/files/22945565/Preprocessing2_ERP.pptx.pdf)
+- [Time Frequency Analyses](https://github.com/user-attachments/files/22945574/TimeFrequencyAnalyses.pptx.pdf)
 
 ## Setup & Code
 
