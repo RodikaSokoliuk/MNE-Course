@@ -19,11 +19,11 @@ Enjoy - and let us know if you need any further explanation.
 - [Introduction and Basics in Python](https://drive.google.com/file/d/1iwSJ2cv6KL4ftK5r9N-hxOmz4IUiOSym/view?usp=sharing)
 - [Good EEG Practice &_Visual Inspection of EEG Data](https://drive.google.com/file/d/1qyNmfK8XlrYe27HImpgbeE2u1nuZYrir/view?usp=sharing)
 - [Preprocessing 1](https://drive.google.com/file/d/1QMP3tTtg4W6PCTN6Min4NZnjEIcdwlla/view?usp=sharing)
-- [Preprocessing 2_& ERP Analyses](https://drive.google.com/file/d/1pb3BZ9tw4wYXNasQRJU0b0fVXweHGfZw/view?usp=sharing)
+- [Preprocessing 2 & ERP Analyses](https://drive.google.com/file/d/1pb3BZ9tw4wYXNasQRJU0b0fVXweHGfZw/view?usp=sharing)
 - [Time Frequency Analyses](https://drive.google.com/file/d/1lc6ZW2sLebCmnzWyoLZTFtco45vJjuK8/view?usp=sharing)
 ## Setup & Code
 
-1. [InstallationGuide](https://drive.google.com/file/d/1PhGYbnWNV2IMcPu1r9sq7Ak661PZf7QF/view?usp=sharing)
+1. [Installation Guide](https://drive.google.com/file/d/1PhGYbnWNV2IMcPu1r9sq7Ak661PZf7QF/view?usp=sharing)
 
 The Jupyter Notebook available in the files contains all the code used during the workshop and is divided into the sections below. 
 
@@ -41,9 +41,9 @@ The Jupyter Notebook available in the files contains all the code used during th
 [Here is a list of links to content learners might find useful, including instructions about accessing Git's Copilot.](https://drive.google.com/file/d/1TPCxlaOxNtvvqOGETH6VgA_dCKW4ldG3/view?usp=sharing)
 
 
-3. How to use Git
-- Basics
-- How to get a free version of copilot using your university account
+- How to use Git
+- Basics and plenty of exercises on Python data structures, functions, etc.
+- How to get a free version of Copilot using your university account
 
 
 ## License
