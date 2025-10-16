@@ -16,15 +16,14 @@ The book is divided in 3 parts: (i) [Slides](#slides), which guide through the m
 Enjoy - and let us know if you need any further explanation.  
 
 ## Slides
-- [Introduction and Basics in Python](https://github.com/user-attachments/files/22945543/IntroPython.pptx.pdf)
-- [Good EEG Practice &_Visual Inspection of EEG Data](https://github.com/user-attachments/files/22945552/GoodEEGPractice_VisualInspection.pptx.pdf)
-- [Preprocessing 1](https://github.com/user-attachments/files/22945561/Preprocessing1.pptx.pdf)
-- [Preprocessing 2_& ERP Analyses](https://github.com/user-attachments/files/22945565/Preprocessing2_ERP.pptx.pdf)
-- [Time Frequency Analyses](https://docs.google.com/presentation/d/11xcIDD9FexV-EVR808SP_hzT_fEnswoO/edit?usp=sharing&ouid=100980314485590754632&rtpof=true&sd=true)
-
+- [Introduction and Basics in Python](https://drive.google.com/file/d/1iwSJ2cv6KL4ftK5r9N-hxOmz4IUiOSym/view?usp=sharing)
+- [Good EEG Practice &_Visual Inspection of EEG Data](https://drive.google.com/file/d/1qyNmfK8XlrYe27HImpgbeE2u1nuZYrir/view?usp=sharing)
+- [Preprocessing 1](https://drive.google.com/file/d/1QMP3tTtg4W6PCTN6Min4NZnjEIcdwlla/view?usp=sharing)
+- [Preprocessing 2_& ERP Analyses](https://drive.google.com/file/d/1pb3BZ9tw4wYXNasQRJU0b0fVXweHGfZw/view?usp=sharing)
+- [Time Frequency Analyses](https://drive.google.com/file/d/1lc6ZW2sLebCmnzWyoLZTFtco45vJjuK8/view?usp=sharing)
 ## Setup & Code
 
-1. [InstallationGuide](https://github.com/user-attachments/files/22641683/installation_guide.pdf)
+1. [InstallationGuide](https://drive.google.com/file/d/1PhGYbnWNV2IMcPu1r9sq7Ak661PZf7QF/view?usp=sharing)
 
 The Jupyter Notebook available in the files contains all the code used during the workshop and is divided into the sections below. 
 
@@ -39,7 +38,7 @@ The Jupyter Notebook available in the files contains all the code used during th
 
 1. Useful Links
 
-[Here is a list of links to content learners might find useful, including instructions about accessing Git's Copilot.](https://github.com/user-attachments/files/22641778/Useful.Links.pdf)
+[Here is a list of links to content learners might find useful, including instructions about accessing Git's Copilot.](https://drive.google.com/file/d/1TPCxlaOxNtvvqOGETH6VgA_dCKW4ldG3/view?usp=sharing)
 
 
 3. How to use Git
