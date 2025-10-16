@@ -1,5 +1,5 @@
 # MNE-Course
-Welcome to the **Book: SEPNECA MNE-Python workshop** repository! This repository is designed to provide educational resources and activities for learners and based on a workshop organised by the SEPNECA (Sociedad Española de Psicofisiología y Neurociencia Cognitiva y Afectiva) at the Research Center for Mind, Brain and Behaviour (CIMCYC, UGR, Granada) in November 2024.
+Welcome to the **Book: SEPNECA MNE-Python workshop** repository! This repository is designed to provide educational resources and activities for learners and is based on a workshop organised by the SEPNECA (Sociedad Española de Psicofisiología y Neurociencia Cognitiva y Afectiva) at the Research Center for Mind, Brain and Behaviour (CIMCYC, UGR, Granada) in November 2024. The workshop was hosted by Rodika Sokoliuk and Ivan Padezhki. 
 
 ## Table of Contents
 
