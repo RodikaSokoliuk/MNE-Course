@@ -5,14 +5,14 @@ Welcome to the **Book: SEPNECA MNE-Python workshop** repository! This repository
 
 1. [Introduction](#introduction)
 2. [Slides](#slides)
-3. [Setup&Code](#setup&code)
+3. [Setup&Code](#setup_and_code)
 4. [Extras](#extras)
 4. [License](#license)
 
 ## Introduction
 
 This book is part of a teaching activity aimed at providing structured learning materials. Specifically, this book provides introductory content into [MNE-Python](https://mne.tools/stable/index.html), an interactive Python-based toolbox to analyse electrophysiological data, like EEG, MEG and intracranial EEG data. 
-The book is divided in 3 parts: (i) [Slides](#slides), which guide through the material of the workshop, from very basic information about Python to theoretical content about the use of EEG up to preprocessing of EEG data and specific analysis approaches using MNE-Python. (ii) [Setup&Code](#setup&code) provides the code that was used in the workshop and is referred to in the slides. It goes from basic examples and little exercises to specific commands used in MNE-Python. (iii) [Extras](#extras) includes useful links and information about Python, MNE-Python in specific, use of github, etc.
+The book is divided in 3 parts: (i) [Slides](#slides), which guide through the material of the workshop, from very basic information about Python to theoretical content about the use of EEG up to preprocessing of EEG data and specific analysis approaches using MNE-Python. (ii) [Setup&Code](#setup_and_code) provides the code that was used in the workshop and is referred to in the slides. It goes from basic examples and little exercises to specific commands used in MNE-Python. (iii) [Extras](#extras) includes useful links and information about Python, MNE-Python in specific, use of github, etc.
 Enjoy - and let us know if you need any further explanation.  
 
 ## Slides
